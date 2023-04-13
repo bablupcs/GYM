@@ -54,7 +54,7 @@
                             <li class="scroll-to-section"><a href="#trainers">FEATURES</a></li>
                             <li class="scroll-to-section"><a href="#our-classes">MODULE</a></li>
                             <li class="scroll-to-section"><a href="#schedule">SCHEDULE</a></li>
-                            <li class="scroll-to-section"><a href="https://gym.adyansolutions.com/users/login">LOGIN</a></li>
+                            <li class="scroll-to-section"><a href="login.html">LOGIN</a></li>
                             <!-- <li class="scroll-to-section"><a href="#contact-us">Contact</a></li>  -->
                             <!-- <li class="main-button"><a href="#">Request a demo</a></li> -->
                             <li><button type="button" class="btn btn-danger" style="    background: linear-gradient(145deg, #f77404 0%, #d513d5 100%);" data-bs-toggle="modal" data-bs-target="#myModal">Request a demo</button></li>
